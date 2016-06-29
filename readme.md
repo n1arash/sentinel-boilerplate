@@ -2,12 +2,12 @@
 
 ## How To Install :
 `
-git clone https://github.com/n1arash/sentinel-boilerplate.git`
-`composer install`
-`php artisan key:generate`
-`php artisan migrate`
-`setup .env file`
-`php artisan serve`
+git clone https://github.com/n1arash/sentinel-boilerplate.git`<br> 
+`composer install`<br> 
+`php artisan key:generate`<br> 
+`php artisan migrate`<br> 
+`setup .env file`<br> 
+`php artisan serve`<br> 
 
 
 ## Help !:
