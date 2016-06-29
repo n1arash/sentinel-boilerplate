@@ -1,5 +1,5 @@
 # Laravel Sentinel Boilerplate 
-
+####A Laravel user Management Boilerplate Using Sentinel Package !
 ## How To Install :
 `
 git clone https://github.com/n1arash/sentinel-boilerplate.git`<br> 
