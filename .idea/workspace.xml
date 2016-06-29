@@ -2,105 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2221e036-14d7-41c1-aea2-dda31e1afee8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/config.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Sentinel.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Listeners/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Policies/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Role.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cartalyst.sentinel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_07_02_230147_migration_cartalyst_sentinel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/paper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/signin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/web.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/edit.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/login.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/register.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sentinel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,7 +28,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44987145">
+            <state vertical-scroll-proportion="0.25035766">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -309,21 +212,29 @@
       <option name="number" value="Default" />
       <updated>1466751143128</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial Commit!">
+      <created>1467212472447</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467212472447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532943" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44285715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44285715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -348,6 +259,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial Commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Commit!" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -357,6 +272,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="105" selection-start-line="45" selection-start-column="105" selection-end-line="45" selection-end-column="105" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -375,6 +291,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="105" selection-start-line="45" selection-start-column="105" selection-end-line="45" selection-end-column="105" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -393,6 +310,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <marker date="1467108310685" expanded="true" signature="87:1774" placeholder="..." />
+            <marker date="1467108310685" expanded="false" signature="118:136" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="137:1772" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="159:1765" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="241:1754" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="366:1739" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="425:1719" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="553:697" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="742:884" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="929:1075" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="1120:1278" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="1316:1691" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="1472:1664" placeholder="..." />
+            <marker date="1467108310685" expanded="false" signature="1594:1611" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -407,6 +340,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,6 +449,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.61787367">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -530,6 +465,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10578279">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <marker date="1467108310685" expanded="true" signature="87:1774" placeholder="..." />
+            <marker date="1467108310685" expanded="false" signature="118:136" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="137:1772" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="159:1765" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="241:1754" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="366:1739" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="425:1719" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="553:697" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="742:884" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="929:1075" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="1120:1278" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="1316:1691" placeholder="..." />
+            <marker date="1467108310685" expanded="true" signature="1472:1664" placeholder="..." />
+            <marker date="1467108310685" expanded="false" signature="1594:1611" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -537,6 +488,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.09308886">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1466489269112" expanded="false" signature="43:88" placeholder="..." />
+            <marker date="1466489269112" expanded="true" signature="119:518" placeholder="{...}" />
+            <marker date="1466489269112" expanded="true" signature="129:314" placeholder=" Handle an incoming request. ..." />
+            <marker date="1466489269112" expanded="true" signature="383:516" placeholder="{...}" />
+            <marker date="1466489269112" expanded="true" signature="433:476" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -544,6 +502,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4358251">
           <caret line="20" column="57" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="57" />
+          <folding>
+            <marker date="1466489269107" expanded="false" signature="43:88" placeholder="..." />
+            <marker date="1466489269107" expanded="true" signature="108:675" placeholder="{...}" />
+            <marker date="1466489269107" expanded="true" signature="118:303" placeholder=" Handle an incoming request. ..." />
+            <marker date="1466489269107" expanded="true" signature="372:673" placeholder="{...}" />
+            <marker date="1466489269107" expanded="true" signature="422:633" placeholder="..." />
+            <marker date="1466489269107" expanded="true" signature="483:551" placeholder="..." />
+            <marker date="1466489269107" expanded="true" signature="559:623" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,6 +518,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61212975">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44987145">
+        <state vertical-scroll-proportion="0.25035766">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
